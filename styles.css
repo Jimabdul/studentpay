@@ -68,7 +68,7 @@ body {
 
 header {
   background-image: linear-gradient(to top, var(--primary-color), transparent),
-    url("assets/header.jpg");
+    url("header.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -359,7 +359,7 @@ nav {
   text-align: center;
   font-size: 12rem;
   font-weight: 700;
-  background-image: url("assets/banner.jpg");
+  background-image: url("banner.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 1px var(--extra-light);
